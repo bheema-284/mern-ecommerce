@@ -138,8 +138,7 @@ export default function Signin() {
             label='Password'
             type='password'
             id='password'
-            onChange={handleChange('password')}
-            type='password'
+            onChange={handleChange('password')}           
             value={password}
             autoComplete='current-password'
           />
