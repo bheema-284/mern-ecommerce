@@ -43,7 +43,7 @@ const AddCategory = () => {
           value={name}
           autoFocus
           required
-        />
+        /> 
       </div>
       <button className='btn btn-outline-primary'>Create Category</button>
     </form>

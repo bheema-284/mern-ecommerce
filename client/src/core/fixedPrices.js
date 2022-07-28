@@ -24,7 +24,7 @@ export const prices = [
     name: '₹600 to ₹899',
     array: [600, 899],
   },
-  {
+  { 
     _id: 5,
     name: 'More than 900',
     array: [900, 5000],

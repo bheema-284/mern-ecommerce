@@ -40,6 +40,10 @@ exports.update = (req, res) => {
   );
 };
 
+
+
+
+
 // exports.update = (req, res) => {
 //   // console.log('UPDATE USER - req.user', req.user, 'UPDATE DATA', req.body);
 //   const { name, password } = req.body;

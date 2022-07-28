@@ -32,3 +32,4 @@ const Checkbox = ({ categories, handleFilters }) => {
 };
 
 export default Checkbox;
+ 

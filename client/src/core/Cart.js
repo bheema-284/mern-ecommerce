@@ -7,7 +7,7 @@ import Checkout from './Checkout';
 
 import Copyright from './Copyright';
 
-const Cart = () => {
+const Cart = () => { 
   const [items, setItems] = useState([]);
   const [run, setRun] = useState(false);
 

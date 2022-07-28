@@ -10,6 +10,6 @@ const ShowImage = ({ item, url }) => (
       style={{ objectFit: 'contain', height: '100%', width: '100%', display: 'flex', marginLeft: 'auto', marginRight: 'auto' }}
     />
   </div>
-);
+); 
 
 export default ShowImage;

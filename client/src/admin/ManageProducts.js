@@ -68,6 +68,6 @@ const ManageProducts = () => {
       </div>
     </Layout>
   );
-};
+}; 
 
 export default ManageProducts;

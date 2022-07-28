@@ -136,7 +136,7 @@ const Shop = () => {
               categories={categories}
               handleFilters={(filters) => handleFilters(filters, 'category')}
             />
-          </ul>
+          </ul> 
 
           <h4>Filter by price range</h4>
           <div>

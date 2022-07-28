@@ -205,6 +205,6 @@ const AddProduct = () => {
       </div>
     </Layout>
   );
-};
+}; 
 
 export default AddProduct;

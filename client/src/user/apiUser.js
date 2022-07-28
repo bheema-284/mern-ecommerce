@@ -8,7 +8,7 @@ export const read = (userId, token) => {
       'Content-Type': 'application/json',
       Authorization: `Bearer ${token}`,
     },
-  })
+  }) 
     .then((response) => {
       return response.json();
     })

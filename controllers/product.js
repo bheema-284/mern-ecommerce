@@ -4,6 +4,7 @@ const fs = require('fs');
 const Product = require('../models/product');
 const { errorHandler } = require('../helpers/dbErrorHandler');
 
+
 exports.productById = (req, res, next, id) => {
   Product.findById(id)
     .populate('category')

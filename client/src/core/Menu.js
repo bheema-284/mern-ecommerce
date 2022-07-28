@@ -267,7 +267,7 @@ const MaterialAppBar = ({ history }) => {
             <Typography className={classes.title} variant='h6' noWrap>
               BHEEMA
             </Typography>
-          </a>
+          </a> 
 
           <div className={classes.grow} />
           <div className={classes.sectionDesktop}>

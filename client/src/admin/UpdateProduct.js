@@ -4,6 +4,7 @@ import { isAuthenticated } from '../auth';
 import { Link, Redirect } from 'react-router-dom';
 import { getProduct, getCategories, updateProduct } from './apiAdmin';
 
+
 const UpdateProduct = ({ match }) => {
   const [values, setValues] = useState({
     name: '',

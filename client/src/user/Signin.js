@@ -16,7 +16,7 @@ import Container from '@material-ui/core/Container';
 
 import Copyright from '../core/Copyright';
 import { signin, authenticate, isAuthenticated } from '../auth';
-
+ 
 const useStyles = makeStyles((theme) => ({
   paper: {
     marginTop: theme.spacing(8),

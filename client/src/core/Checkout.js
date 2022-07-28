@@ -188,6 +188,6 @@ const Checkout = ({ products, setRun = (f) => f, run = undefined }) => {
       {showCheckout()}
     </div>
   );
-};
+}; 
 
 export default Checkout;

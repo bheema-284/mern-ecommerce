@@ -19,5 +19,5 @@ const NotFound = () => {
     </Layout>
   );
 };
-
+ 
 export default NotFound;

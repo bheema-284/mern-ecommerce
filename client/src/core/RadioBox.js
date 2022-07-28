@@ -7,7 +7,7 @@ const RadioBox = ({ prices, handleFilters }) => {
   const handleChange = (event) => {
     handleFilters(event.target.value);
     setValue(event.target.value);
-  };
+  }; 
 
   return prices.map((p, i) => (
     <div className='ml-5' key={i}>

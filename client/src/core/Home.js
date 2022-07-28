@@ -70,6 +70,6 @@ const Home = () => {
       <Copyright />
     </Layout>
   );
-};
+}; 
 
 export default Home;

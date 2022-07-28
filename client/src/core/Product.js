@@ -60,6 +60,6 @@ const Product = (props) => {
       </div>
     </Layout>
   );
-};
+}; 
 
 export default Product;

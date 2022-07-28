@@ -3,6 +3,7 @@ const jwt = require('jsonwebtoken'); // to generate signed token
 const expressJwt = require('express-jwt'); // for auth check
 const { errorHandler } = require('../helpers/dbErrorHandler');
 
+
 require('dotenv').config();
 
 exports.signup = (req, res) => {
