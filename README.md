@@ -80,5 +80,5 @@
     8. admin can view ordered products
     9. admin can change the status of a product (processing, shipped, delivered, etc.)
 
-6. <b>Deployed on</br>  https://bheema-shop.netlify.app/
+6. <b>Deployed on</br>  https://bheema-shop.netlify.app/ 
 7. raise a star to support me
